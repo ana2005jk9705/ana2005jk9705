@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ana2005jk9705
-- 👀 I’m interested in Frontet Statics
-- 🌱 I’m currently JS and HTML/CSS
+- 👀 I’m interested in Front-end Statics
+- 🌱 I’m currently learning JS and HTML/CSS
 - 📫 How to reach me: Discord tag: Ana-Maria Jeon#7137
 
 <!---
